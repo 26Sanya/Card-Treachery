@@ -1,4 +1,4 @@
-# Card-Treachery
+# Fraudulent-Card-Detection
 A self learning project.
 
 Credit card treachery detection implementing the two major algorithms namely,
